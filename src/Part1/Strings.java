@@ -1,9 +1,9 @@
-package src.Part1.StringOperations;
+package src.Part1;
 
 /**
- * Part 1.3 String operations.
+ * Task 1.3 String operations.
  */
-public class Main {
+public class Strings {
 	public static void main(String[] args) {
 		// sample string
 		String  s = "string to play around with";

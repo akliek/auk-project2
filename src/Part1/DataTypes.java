@@ -1,9 +1,9 @@
-package src.Part1.DataTypes;
+package src.Part1;
 
 /**
- * Part 1.1 data types.
+ * Task 1.1 data types.
  */
-public class Main {
+public class DataTypes {
     public static void main(String[] args) {
         int     n = 5;
         double  num = 1.1;

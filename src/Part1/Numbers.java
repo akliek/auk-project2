@@ -1,9 +1,9 @@
-package src.Part1.NumbersOperations;
+package src.Part1;
 
 /**
- * Part 1.2 Numbers operations.
+ * Task 1.2 Numbers operations.
  */
-public class Main {
+public class Numbers {
 	public static void main(String[] args) {
 		int     a = 2;
 		int     b = 5;

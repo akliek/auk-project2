@@ -1,12 +1,12 @@
-package src.Part1.InputOutputOperations;
+package src.Part1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * Part 1.4 Input/Output operations.
+ * Task 1.4 Input/Output operations.
  */
-public class Main {
+public class IO {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 
@@ -14,6 +14,7 @@ public class Main {
 		String name = scanner.nextLine();
 		System.out.println("Hello, " + name + "! Welcome to Input/Output Demo.");
 
+		System.out.print("Please enter you age: ");
 		try {
 			int age = scanner.nextInt();
 			System.out.println("You are " + age + " years old.");

@@ -1,11 +1,11 @@
-package src.Part1.CommentTypes;
+package src.Part1;
 
 /**
- * Part 1.5 comments.
+ * Task 1.5 comments.
  * This class is created to demonstrate different comments types.
  * This Javadoc comment.
  */
-public class Main {
+public class Comments {
 	/**
 	 * This method returns integer it gets.
 	 * @param n - random integer
