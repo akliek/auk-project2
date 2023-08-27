@@ -1,6 +1,7 @@
 package src.Part1.CommentTypes;
 
 /**
+ * Part 1.5 comments.
  * This class is created to demonstrate different comments types.
  * This Javadoc comment.
  */

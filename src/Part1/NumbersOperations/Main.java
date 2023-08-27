@@ -1,5 +1,8 @@
 package src.Part1.NumbersOperations;
 
+/**
+ * Part 1.2 Numbers operations.
+ */
 public class Main {
 	public static void main(String[] args) {
 		int     a = 2;

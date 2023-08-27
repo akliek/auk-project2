@@ -3,6 +3,9 @@ package src.Part1.InputOutputOperations;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * Part 1.4 Input/Output operations.
+ */
 public class Main {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

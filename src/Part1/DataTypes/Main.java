@@ -1,5 +1,8 @@
 package src.Part1.DataTypes;
 
+/**
+ * Part 1.1 data types.
+ */
 public class Main {
     public static void main(String[] args) {
         int     n = 5;

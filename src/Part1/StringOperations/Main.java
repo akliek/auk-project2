@@ -1,5 +1,8 @@
 package src.Part1.StringOperations;
 
+/**
+ * Part 1.3 String operations.
+ */
 public class Main {
 	public static void main(String[] args) {
 		// sample string
